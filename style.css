@@ -1,0 +1,24 @@
+header{
+    background-color: #FFC0CB;
+
+}
+    main{
+        background-color:#C71585 ;
+
+    }
+    body{
+        background-color:#8B008B ;
+        margin: 1cm;
+    }
+    h1{
+    text-align:left
+    }
+    .lema{
+        text-align: center;
+        padding: 30px;
+        font-size: 32px;
+    }
+    .autor{
+        text-align:right;
+        font-size: 20px;
+    }
